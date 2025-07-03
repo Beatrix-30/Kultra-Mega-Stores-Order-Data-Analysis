@@ -178,10 +178,34 @@ To increase revenue from these bottom 10 customers, KMS management should consid
 KMS incurred the most shipping cost using Delivery Truck with a total shipping cost of $51,971.94.
 
 6. **Who are the most valuable customers, and what products or services do they typically purchase?**
- * Top Customer by Total Sales (overall list, product specific): Emily Phan also appears here, primarily purchasing "Polycom ViewStation? ISDN Videoconferencing Unit" with sales of 89,061.05. Jasper Cacioppo and Craig Carreira also purchased this same product, indicating its popularity among high-volume customers.
- * Small Business Customer with Highest Sales: Dennis Kane with total sales of 75,967.59.
- * Corporate Customer with Most Orders (2009-2012): Adam Hart with 27 orders.
-While Emily Phan is identified as the most profitable consumer customer and has high sales for specific products, and Dennis Kane is the top small business customer by sales, the term "most valuable customers" can be subjective. However, based on the provided data, Emily Phan stands out as she is both the most profitable consumer customer and a top purchaser of a high-value product (Polycom ViewStation? ISDN Videoconferencing Unit). The products they typically purchase, as seen with Emily Phan, include Videoconferencing Units and, more broadly, items that contribute significantly to profit.
+   - Top Customer by Total Sales:
+     - Emily Phan purchased "Polycom ViewStation ISDN Videoconferencing Unit" with sales of $89,061.05.
+     - Jasper Cacioppo purchased "Polycom ViewStation ISDN Videoconferencing Unit" with sales of $45,923.76.
+     - Craig Carreira purchased Polycom ViewStation ISDN Videoconferencing Unit with sales of $41,343.21
+     - Clytie Kelty purchased Canon PC940 Copier with sales of $41,343.21 40780.52
+
+Clytie Kelty
+Dennis Kane
+Canon imageCLASS 2200 Advanced Copier
+33367.85
+29884.60
+Canon Image Class D660 Copier
+Karen Carlisle
+Steve Chapman
+Riverside Palais Royal Lawyers Bookcase, Royale Cherry Finish
+29345.27
+29186.49
+Hewlett-Packard Business Color Inkjet 3000 [N, DTN] Series Printers
+Nick Crebassa
+Parhena Norris
+Canon imageCLASS 2200 Advanced Copier
+29186.49
+28761.52
+28664.52
+Hewlett Packard LaserJet 3310 Copier
+Deborah Brumfield
+ 
+ 
 
 7. **Which small business customer had the highest sales?**
 The small business customer who had the highest sales was Dennis Kane with total sales of $75,967.59.
