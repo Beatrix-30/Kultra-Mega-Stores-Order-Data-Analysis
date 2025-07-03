@@ -85,7 +85,7 @@ where [Customer_Segment] = 'small business'
 group by [Customer_Name]
 order by  Total_Sales desc;
 
--------------------------------- Corporate Customer with the highest orders between 2009 – 2012------------------
+-------------------------------- Corporate Customer with the highest orders between 2009 â€“ 2012------------------
 
 select top 1  [Customer_Name], count([Order_ID]) as Order_Count
 from [dbo].[KMS Sql Case Study]
