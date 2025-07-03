@@ -204,4 +204,43 @@ The most profitable consumer customer was Emily Phan with a total profit of $34,
     
 11. **If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer.**
 
+**Shipping Methods Costs:**
+ - **Delivery Truck:**
+   - Average Shipping Cost: $45.35
+   - Sum of Shipping Cost: $51,971.94
+   - Total Orders: 28,764
+- **Express Air:**
+  - Average Shipping Cost: $7.99
+  - Sum of Shipping Cost: $7,850.91
+  - Total Orders: 25,353
+- **Regular Air:**
+  - Average Shipping Cost: $7.66
+  - Sum of Shipping Cost: $48,008.19
+  - Total Orders: 160,660
 
+**Order Priorities:**
+- Critical:
+  - Delivery Truck: $47.30 (high cost)
+  - Express Air: $8.71
+  - Regular Air: $7.28
+- High:
+  - Delivery Truck: $45.19
+  - Express Air: $6.86
+  - Regular Air: $7.65
+- Medium:
+  - Delivery Truck: $46.15
+  - Express Air: $8.13
+  - Regular Air: $7.69
+- Low:
+  - Delivery Truck: $44.53
+  - Express Air: $8.17
+  - Regular Air: $8.02
+
+**Analysis: Cost vs. Priority:**
+For Critical orders, using the Delivery Truck is not justified due to its high cost compared to Express Air and Regular Air, which offer faster delivery at lower costs.
+For High and Medium orders, the Delivery Truck again is significantly more expensive compared to the other options. Even for Low priority orders, while the Delivery Truck is the least expensive among the shipping methods, it still represents a higher cost compared to Regular Air.
+
+The company did not appropriately allocate shipping costs based on order priorities. Critical and High Orders should prioritize speed and cost-effectiveness, favoring Express Air or Regular Air over the Delivery Truck. Regular Air or Express Air would be more suitable for medium orrders. While less urgent, Regular Air remains a better choice financially.
+
+**Recommendation**
+The company should reassess its shipping strategy to align costs with order priorities better. Specifically, for critical orders, using faster yet more economical options like Express Air or Regular Air would optimize both cost and delivery efficiency. Overall, a strategic review of shipping methods based on urgency and cost-effectiveness is necessary to ensure better financial management.
