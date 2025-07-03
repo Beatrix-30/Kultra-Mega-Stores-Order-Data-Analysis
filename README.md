@@ -80,7 +80,7 @@ group by [Customer_Name]
 order by [Total Revenue] asc
 ```
 5. KMS incurred the most shipping cost using which shipping method?
------------------------------ Shipping Method that incurred the most Shipping Cost-------------
+
 ```
 select top 1 [Ship_Mode], sum([Shipping_Cost]) as Total_Shipping_Cost
 from [dbo].[KMS Sql Case Study ]
@@ -125,7 +125,30 @@ order by Total_Profit desc;
 ```
 10. Which customer returned items, and what segment do they belong to?
 ```
-select distinct [Order_ID], [Customer_Segment]
-from [dbo].[KMS Sql Case Study ]
-where [Order_Quantity] < 0;
+select distinct t.customer_name, t.customer_segment
+from 
+ [dbo].[KMS Sql Case Study]  t 
+ JOIN 
+ [dbo].[Order_Status]  o 
+on 
+  t.order_id = o.order_id
+where 
+  o.status = 'Returned';
 ```
+11. Shipping costs based on the Order Priority
+```
+Select (order_priority),(ship_mode),count(*) as number_of_orders,
+sum(shipping_cost) as total_shipping_cost,
+avg(shipping_cost) as avg_shipping_cost
+from [dbo].[KMS Sql Case Study]
+group by (order_priority), (ship_mode)
+order by case (order_priority)
+        when 'critical' then 1
+        when 'high' then 2
+        when 'medium' then 3
+        when 'low' then 4
+        else 5
+    end
+```
+## Result from the Analysis 
+
