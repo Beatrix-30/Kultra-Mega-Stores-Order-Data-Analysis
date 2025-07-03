@@ -168,11 +168,11 @@ The total sales of appliances in Ontario were $202,346.84.
 4. **Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers.**
 These customers (Jeremy Fany, Natalie DeChemey, Nicole Fjeld, Katrina Edelman, Dorothy Dickinson, Christine Kargatis, Eric Murdock, Chris McAfee, Anne McFarland, Rick Huthwaite) are the ones generating the least revenue among the observed group.
 To increase revenue from these bottom 10 customers, KMS management should consider the following strategies:
- - **Targeted Promotions and Discounts:** Offer personalized discounts or promotions on products these customers previously viewed or purchased, or on related items that might interest them.
- - **Customer Relationship Management (CRM):** Implement a robust CRM system to track their past purchases, preferences, and interactions. 
- - Feedback Collection: Reach out to these customers to understand their needs, reasons for their low engagement, complaints about the products or services or other concerns. feedbacks can be collected through surveys, or direct calls.
- - **Improved Customer Service:** Ensure that these customers receive excellent customer service. Positive experiences can encourage them to make more purchases.
- - **Product Recommendations:** Use data analytics to suggest products they are more likely to buy, based on their Browse history or similar customer profiles.
+  - **Targeted Promotions and Discounts:** Offer personalized discounts or promotions on products these customers previously viewed or purchased, or on related items that might interest them.
+  - **Customer Relationship Management (CRM):** Implement a robust CRM system to track their past purchases, preferences, and interactions. 
+  - Feedback Collection: Reach out to these customers to understand their needs, reasons for their low engagement, complaints about the products or services or other concerns. feedbacks can be collected through surveys, or direct calls.
+  - **Improved Customer Service:** Ensure that these customers receive excellent customer service. Positive experiences can encourage them to make more purchases.
+  - **Product Recommendations:** Use data analytics to suggest products they are more likely to buy, based on their Browse history or similar customer profiles.
    
 5. **KMS incurred the most shipping cost using which shipping method?**
 KMS incurred the most shipping cost using Delivery Truck with a total shipping cost of $51,971.94.
