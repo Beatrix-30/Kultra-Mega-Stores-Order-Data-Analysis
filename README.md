@@ -8,7 +8,7 @@ This repository contains SQL queries and analyses conducted on the order data fo
 ## Tools used
 - SQL Server Management Studio (SSMS): for querying and data analysis [Download Here](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms) 
 
-## Analysis for Case Scenario I
+## Data Analysis for Case Scenario I
 ```
 create database Kultra_Mega_Stores
 ```
@@ -87,7 +87,7 @@ from [dbo].[KMS Sql Case Study ]
 group by  [Ship_Mode]
 order by Total_Shipping_Cost desc 
 ```
-## Analysis for Case Scenario II
+## Data Analysis for Case Scenario II
 
 6. Who are the most valuable customers, and what products or services do they typically 
 purchase? 
