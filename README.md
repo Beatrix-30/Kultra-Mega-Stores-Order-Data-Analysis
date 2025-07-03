@@ -151,4 +151,50 @@ order by case (order_priority)
     end
 ```
 ## Result from the Analysis 
+1. **Which product category had the highest sales?**
+  The product category with the highest sales is Technology with total sales of $5,984,248.50.
+2. **What are the Top 3 and Bottom 3 regions in terms of sales?**
+   - Top 3 Regions by Sales:
+     - West: $3,597,549.41
+     - Ontario: $3,063,212.60
+     - Prairie: $2,837,304.60
+   - Bottom 3 Regions by Sales:
+     - Nunavut: $116,376.47
+     - Northwest Territories: $800,847.35
+     - Yukon: $975,867.39
+3. **What were the total sales of appliances in Ontario?**
+The total sales of appliances in Ontario were $202,346.84.
+
+4. **Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers.**
+These customers (Jeremy Fany, Natalie DeChemey, Nicole Fjeld, Katrina Edelman, Dorothy Dickinson, Christine Kargatis, Eric Murdock, Chris McAfee, Anne McFarland, Rick Huthwaite) are the ones generating the least revenue among the observed group.
+To increase revenue from these bottom 10 customers, KMS management should consider the following strategies:
+ - **Targeted Promotions and Discounts:** Offer personalized discounts or promotions on products these customers previously viewed or purchased, or on related items that might interest them.
+ - **Customer Relationship Management (CRM):** Implement a robust CRM system to track their past purchases, preferences, and interactions. 
+ - Feedback Collection: Reach out to these customers to understand their needs, reasons for their low engagement, complaints about the products or services or other concerns. feedbacks can be collected through surveys, or direct calls.
+ - **Improved Customer Service:** Ensure that these customers receive excellent customer service. Positive experiences can encourage them to make more purchases.
+ - **Product Recommendations:** Use data analytics to suggest products they are more likely to buy, based on their Browse history or similar customer profiles.
+   
+5. **KMS incurred the most shipping cost using which shipping method?**
+KMS incurred the most shipping cost using Delivery Truck with a total shipping cost of $51,971.94.
+
+6. **Who are the most valuable customers, and what products or services do they typically purchase?**
+ * Top Customer by Total Sales (overall list, product specific): Emily Phan also appears here, primarily purchasing "Polycom ViewStation? ISDN Videoconferencing Unit" with sales of 89,061.05. Jasper Cacioppo and Craig Carreira also purchased this same product, indicating its popularity among high-volume customers.
+ * Small Business Customer with Highest Sales: Dennis Kane with total sales of 75,967.59.
+ * Corporate Customer with Most Orders (2009-2012): Adam Hart with 27 orders.
+While Emily Phan is identified as the most profitable consumer customer and has high sales for specific products, and Dennis Kane is the top small business customer by sales, the term "most valuable customers" can be subjective. However, based on the provided data, Emily Phan stands out as she is both the most profitable consumer customer and a top purchaser of a high-value product (Polycom ViewStation? ISDN Videoconferencing Unit). The products they typically purchase, as seen with Emily Phan, include Videoconferencing Units and, more broadly, items that contribute significantly to profit.
+
+7. **Which small business customer had the highest sales?**
+The small business customer who had the highest sales was Dennis Kane with total sales of $75,967.59.
+
+8. **Which Corporate Customer placed the most number of orders in 2009 – 2012?**
+The corporate customer who placed the most number of orders in 2009 – 2012 was Adam Hart with 27 orders.
+
+9. **Which consumer customer was the most profitable one?**
+The most profitable consumer customer was Emily Phan with a total profit of $34,005.44.
+
+10. **Which customer returned items, and what segment do they belong to?**
+    The total number of items returned were 872 based on the order ID. However customers that returned distinct items based on the segments were 419 ranging from Consumer, Small Business, Corporate, Home Office.
+    
+11. **If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer.**
+
 
