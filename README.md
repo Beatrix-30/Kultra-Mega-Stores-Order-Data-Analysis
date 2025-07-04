@@ -21,16 +21,15 @@ The source of data used are below and can be downloaded through the link:
 - SQL Server Management Studio (SSMS): for querying and data analysis [Download Here](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms) 
 
 ## 🧠 Business Questions from Case study
-📌 **Case Scenarion 1: Sales Performance Analysis**
 
-     1. Which product category had the highest sales?
+###Case Scenario 1: Sales Performance Analysis
+          1. Which product category had the highest sales?
      2. What are the Top 3 and Bottom 3 regions in terms of sales?
      3. What were the total sales of appliances in Ontario?
      4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
      5. KMS incurred the most shipping cost using which shipping method?
      
-📌 **Case Scenario 2: Customer and Order Insights** 
-
+ **Case Scenario 2: Customer and Order Insights** 
 Most valuable customers and products they purchase
 Highest-spending small business customer
 Corporate customer with most orders (2009–2012)
@@ -38,8 +37,6 @@ Most profitable consumer customer
 Customers who returned products and their segments
 Was shipping cost aligned with order priority?
 
-
-🧠 Data Analysis for Case Scenario I
 
 
 ## Result from the Analysis 
