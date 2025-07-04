@@ -9,18 +9,18 @@
 - [Result from the Analysis ](#result-from-the-analysis )
 
 
-## 📌 Project Overview
+## Project Overview
 This repository contains SQL queries and analyses conducted on the order data for Kultra Mega Stores (KMS), a leading provider of office supplies and furniture based in Lagos, Nigeria. The data spans from 2009 to 2012 and focuses on various customer segments, including individual consumers, small retail businesses, and large corporate clients.
 
-## Data source
+## 📁 Data source
 The source of data used are below and can be downloaded through the link:
 - KMS SQL CASE STUDY.CSV [Download Here](https://canvas.instructure.com/files/302721273/download?download_frd=1)
 - Order_Status.CSV [Download Here](https://canvas.instructure.com/files/302963135/download?download_frd=1)
 
-## Tools used
+## 🧰 Tools used
 - SQL Server Management Studio (SSMS): for querying and data analysis [Download Here](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms) 
 
-## Data Analysis for Case Scenario I
+## 🧠 Data Analysis for Case Scenario I
 
 ```
 create database Kultra_Mega_Stores
