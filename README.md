@@ -1,5 +1,14 @@
 # Kultra-Mega-Stores-Order-Data-Analysis
 
+## Outline
+- [Project Overview](#Project Overview)
+- [Usage](#usage
+- [Features](#features)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+
 ## Project Overview
 This repository contains SQL queries and analyses conducted on the order data for Kultra Mega Stores (KMS), a leading provider of office supplies and furniture based in Lagos, Nigeria. The data spans from 2009 to 2012 and focuses on various customer segments, including individual consumers, small retail businesses, and large corporate clients.
 
@@ -247,3 +256,5 @@ The company did not appropriately allocate shipping costs based on order priorit
 
 **Recommendation**
 The company should reassess its shipping strategy to align costs with order priorities better. Specifically, for critical orders, using faster yet more economical options like Express Air or Regular Air would optimize both cost and delivery efficiency. Overall, a strategic review of shipping methods based on urgency and cost-effectiveness is necessary to ensure better financial management.
+
+Features
