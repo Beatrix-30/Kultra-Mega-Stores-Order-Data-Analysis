@@ -15,15 +15,15 @@ Welcome to the KMS Sales Data Analysis project. This repository explores our sal
 ## Project Overview
 This repository contains SQL queries and analyses conducted on the order data for Kultra Mega Stores (KMS), a leading provider of office supplies and furniture based in Lagos, Nigeria. The data spans from 2009 to 2012 and focuses on various customer segments, including individual consumers, small retail businesses, and large corporate clients. We aim to answer critical business questions, from identifying our top-selling products and regions to understanding our most valuable customers and the efficiency of our shipping methods. The insights gathered here are designed to inform strategic decisions and drive future growth.
 
-## 📁 Data source
+## 📁Data source
 The source of data used are below and can be downloaded through the link:
 - KMS SQL CASE STUDY.CSV [Download Here](https://canvas.instructure.com/files/302721273/download?download_frd=1)
 - Order_Status.CSV [Download Here](https://canvas.instructure.com/files/302963135/download?download_frd=1)
 
-## 🧰 Tools used
+## 🧰Tools used
 - SQL Server Management Studio (SSMS): for querying and data analysis [Download Here](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms) 
 
-## 🧠 Business Questions from Case study
+## 🧠Business Questions from Case study
    **Case Scenario 1: Sales Performance Analysis** 
    1. Which product category had the highest sales?
    2. What are the Top 3 and Bottom 3 regions in terms of sales?
@@ -40,7 +40,7 @@ The source of data used are below and can be downloaded through the link:
    10. Which customer returned items, and what segment do they belong to?
    11. Was shipping costs based on the Order Priority?
 
-## 📈 Result and Insights
+## 📈Result and Insights
    1. **Sales Performance:** The Technology product category leads with total sales of $5,984,248.50. The West region achieved the highest sales at $3,597,549.41, while Nunavut has the lowest sales at $116,376.47. This indicates a strong market presence in certain regions and product categories, suggesting targeted marketing opportunities.
   
    2. **Customer Engagement Strategies:** To improve revenue from the bottom 10 customers, strategies such as targeted promotions, CRM implementation, and feedback collection are essential. Enhancing customer service and providing personalized product recommendations could also foster loyalty and increase sales.
