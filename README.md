@@ -1,16 +1,18 @@
 # Kultra-Mega-Stores-Order-Data-Analysis
 
+Welcome to the KMS Sales Data Analysis project. This repository explores our sales figures to uncover key trends, understand customer behavior, and pinpoint areas where we can boost revenue and optimize operations. 
+
 ## Outline
 - [Project Overview](#project-overview)
 - [Data source](#data-source)
 - [Tools used](#tools-used)
 - [Business Questions from Case study](#business-questions-from-case-study)
-- [Data Analysis for Case Scenario II](#data-analysis-for-case-scenario-II)
-- [Result from the Analysis ](#result-from-the-analysis )
+- [Result and Insights](#result-and-insights)
+- [Recommendation](#Recommendation)
 
 
 ## Project Overview
-This repository contains SQL queries and analyses conducted on the order data for Kultra Mega Stores (KMS), a leading provider of office supplies and furniture based in Lagos, Nigeria. The data spans from 2009 to 2012 and focuses on various customer segments, including individual consumers, small retail businesses, and large corporate clients.
+This repository contains SQL queries and analyses conducted on the order data for Kultra Mega Stores (KMS), a leading provider of office supplies and furniture based in Lagos, Nigeria. The data spans from 2009 to 2012 and focuses on various customer segments, including individual consumers, small retail businesses, and large corporate clients. We aim to answer critical business questions, from identifying our top-selling products and regions to understanding our most valuable customers and the efficiency of our shipping methods. The insights gathered here are designed to inform strategic decisions and drive future growth.
 
 ## 📁 Data source
 The source of data used are below and can be downloaded through the link:
@@ -21,118 +23,37 @@ The source of data used are below and can be downloaded through the link:
 - SQL Server Management Studio (SSMS): for querying and data analysis [Download Here](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms) 
 
 ## 🧠 Business Questions from Case study
- **Case Scenario 1: Sales Performance Analysis**
- 1. Which product category had the highest sales?
- 2. What are the Top 3 and Bottom 3 regions in terms of sales?
- 3. What were the total sales of appliances in Ontario?
- 4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
- 5. KMS incurred the most shipping cost using which shipping method?
+   **Case Scenario 1: Sales Performance Analysis** 
+   1. Which product category had the highest sales?
+   2. What are the Top 3 and Bottom 3 regions in terms of sales?
+   3. What were the total sales of appliances in Ontario?
+   4. Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers
+   5. KMS incurred the most shipping cost using which shipping method?
      
-**Case Scenario 2: Customer and Order Insights**
-6. Who are the most valuable customers, and what products or services do they typically purchase? 
- 7. Which small business customer had the highest sales? 
- 8. Which Corporate Customer placed the most number of orders in 2009 – 2012? 
-9. Which consumer customer was the most profitable one? 
-10. Which customer returned items, and what segment do they belong to? 
-11. If the delivery truck is the most economical but the slowest shipping method and 
-Express Air is the fastest but the most expensive one, do you think the company 
-appropriately spent shipping costs based on the Order Priority? Explain your answer
-
-
-
-## Result from the Analysis 
-1. **Which product category had the highest sales?**
-  The product category with the highest sales is Technology with total sales of $5,984,248.50.
-2. **What are the Top 3 and Bottom 3 regions in terms of sales?**
-   - Top 3 Regions by Sales:
-     - West: $3,597,549.41
-     - Ontario: $3,063,212.60
-     - Prairie: $2,837,304.60
-   - Bottom 3 Regions by Sales:
-     - Nunavut: $116,376.47
-     - Northwest Territories: $800,847.35
-     - Yukon: $975,867.39
-3. **What were the total sales of appliances in Ontario?**
-The total sales of appliances in Ontario were $202,346.84.
-
-4. **Advise the management of KMS on what to do to increase the revenue from the bottom 10 customers.**
-These customers (Jeremy Fany, Natalie DeChemey, Nicole Fjeld, Katrina Edelman, Dorothy Dickinson, Christine Kargatis, Eric Murdock, Chris McAfee, Anne McFarland, Rick Huthwaite) are the ones generating the least revenue among the observed group.
-To increase revenue from these bottom 10 customers, KMS management should consider the following strategies:
-  - **Targeted Promotions and Discounts:** Offer personalized discounts or promotions on products these customers previously viewed or purchased, or on related items that might interest them.
-  - **Customer Relationship Management (CRM):** Implement a robust CRM system to track their past purchases, preferences, and interactions. 
-  - Feedback Collection: Reach out to these customers to understand their needs, reasons for their low engagement, complaints about the products or services or other concerns. feedbacks can be collected through surveys, or direct calls.
-  - **Improved Customer Service:** Ensure that these customers receive excellent customer service. Positive experiences can encourage them to make more purchases.
-  - **Product Recommendations:** Use data analytics to suggest products they are more likely to buy, based on their Browse history or similar customer profiles.
+   **Case Scenario 2: Customer and Order Insights**
    
-5. **KMS incurred the most shipping cost using which shipping method?**
-KMS incurred the most shipping cost using Delivery Truck with a total shipping cost of $51,971.94.
+   6. Who are the most valuable customers, and what products or services do they typically purchase?
+   7. Which small business customer had the highest sales?
+   8. Which Corporate Customer placed the most number of orders in 2009 – 2012?
+   9. Which consumer customer was the most profitable one?
+   10. Which customer returned items, and what segment do they belong to?
+   11. Was shipping costs based on the Order Priority?
 
-6. **Who are the most valuable customers, and what products or services do they typically purchase?**
-   - Top Customer by Total Sales:
-     - Emily Phan purchased "Polycom ViewStation ISDN Videoconferencing Unit" with total sales of $89,061.05.
-     - Jasper Cacioppo purchased "Polycom ViewStation ISDN Videoconferencing Unit" with total sales of $45,923.76.
-     - Craig Carreira purchased Polycom ViewStation ISDN Videoconferencing Unit with total sales of $41,343.21
-     - Clytie Kelty purchased Canon PC940 Copier with total sales of $40,780.52
-     - Dennis Kane purchased Canon imageCLASS 2200 Advanced Copierwith total sales $33,367.85
-     - Karen Carlisle purchased Canon Image Class D660 Copier with total sales of $29,884.60
-     - Steve Chapman purchased Riverside Palais Royal Lawyers Bookcase with total sales of $29,345.27
-     - Nick Crebassa purchased Hewlett-Packard Business Color Inkjet 3000 [N, DTN] Series Printers with total sales of $29,186.49
-     - Parhena Norris purchased Canon imageCLASS 2200 Advanced Copier with total sales of $28,761.52
-     - Deborah Brumfield purchased Hewlett Packard LaserJet 3310 Copier with total sales of $28,664.52
+## Result and Insights
+   1. **Sales Performance:** The Technology product category leads with total sales of $5,984,248.50. The West region achieved the highest sales at $3,597,549.41, while Nunavut has the lowest sales at $116,376.47. This indicates a strong market presence in certain regions and product categories, suggesting targeted marketing opportunities.
+  
+   2. **Customer Engagement Strategies:** To improve revenue from the bottom 10 customers, strategies such as targeted promotions, CRM implementation, and feedback collection are essential. Enhancing customer service and providing personalized product recommendations could also foster loyalty and increase sales.
+  
+   3. **Shipping Cost Analysis:** The Delivery Truck method incurred the highest shipping costs at $51,971.94. We strongly advise KMS to re-evaluate its shipping allocation. Prioritizing faster, more cost-effective methods like Express Air or Regular Air for Critical and High priority orders could significantly improve both delivery efficiency and financial management. A thorough review of shipping methods based on urgency and cost-effectiveness is crucial. For a detailed breakdown of shipping costs by priority, please see the analysis script.
 
-7. **Which small business customer had the highest sales?**
-The small business customer who had the highest sales was Dennis Kane with total sales of $75,967.59.
 
-8. **Which Corporate Customer placed the most number of orders in 2009 – 2012?**
-The corporate customer who placed the most number of orders in 2009 – 2012 was Adam Hart with 27 orders.
+## Recommendation
+This analysis has shed light on several key areas for KMS. To truly elevate KMS's business performance and unlock its full potential, we've identified several key strategic pathways.
+- **Tailored Engagement for Our "Bottom 10" Customers:** We should craft personalized marketing campaigns, offering discounts or promotions specifically on products they have shown interest in, or on related items that might spark their curiosity. By leveraging data analytics, we can pinpoint exactly what resonates with each of these customers, significantly increasing the chances of repeat purchases and deeper engagement.
+- **Optimizing Our Shipping Strategy for Smarter Spending:** Our analysis revealed that while the Delivery Truck is our most used shipping method, it also incurs the highest costs. This isn't always the most efficient choice, especially for urgent orders. We must re-evaluate our shipping strategy to align costs more closely with order priorities. For critical and high-priority shipments, shifting towards faster, more economical options like Express Air or Regular Air will not only enhance customer satisfaction through timely deliveries but also significantly optimize our operational expenses.
+- **Doubling Down on Our Strengths: Expanding High-Performing Product Lines:** The Technology category is clearly our sales powerhouse. This presents a fantastic opportunity to expand our product range within this area. By investing in new technology products or accessories, we can capture an even larger market share and attract a broader customer base, leveraging what we already do best.
+-  **Listening to Our Customers: The Power of Feedback:** Understanding why some customers might be less engaged, or what concerns they have about our products or services, is invaluable. This direct feedback can guide us in refining our offerings, enhancing our customer service, and ultimately boosting overall satisfaction.
 
-9. **Which consumer customer was the most profitable one?**
-The most profitable consumer customer was Emily Phan with a total profit of $34,005.44.
-
-10. **Which customer returned items, and what segment do they belong to?**
-    The total number of items returned were 872 based on the order ID. However customers that returned distinct items based on the segments were 419 ranging from Consumer, Small Business, Corporate, Home Office.
-    
-11. **If the delivery truck is the most economical but the slowest shipping method and Express Air is the fastest but the most expensive one, do you think the company appropriately spent shipping costs based on the Order Priority? Explain your answer.**
-
-**Shipping Methods Costs:**
- - **Delivery Truck:**
-   - Average Shipping Cost: $45.35
-   - Sum of Shipping Cost: $51,971.94
-   - Total Orders: 28,764
-- **Express Air:**
-  - Average Shipping Cost: $7.99
-  - Sum of Shipping Cost: $7,850.91
-  - Total Orders: 25,353
-- **Regular Air:**
-  - Average Shipping Cost: $7.66
-  - Sum of Shipping Cost: $48,008.19
-  - Total Orders: 160,660
-
-**Order Priorities:**
-- Critical:
-  - Delivery Truck: $47.30 (high cost)
-  - Express Air: $8.71
-  - Regular Air: $7.28
-- High:
-  - Delivery Truck: $45.19
-  - Express Air: $6.86
-  - Regular Air: $7.65
-- Medium:
-  - Delivery Truck: $46.15
-  - Express Air: $8.13
-  - Regular Air: $7.69
-- Low:
-  - Delivery Truck: $44.53
-  - Express Air: $8.17
-  - Regular Air: $8.02
-
-**Analysis: Cost vs. Priority:**
-For Critical orders, using the Delivery Truck is not justified due to its high cost compared to Express Air and Regular Air, which offer faster delivery at lower costs.
-For High and Medium orders, the Delivery Truck again is significantly more expensive compared to the other options. Even for Low priority orders, while the Delivery Truck is the least expensive among the shipping methods, it still represents a higher cost compared to Regular Air.
-
-The company did not appropriately allocate shipping costs based on order priorities. Critical and High Orders should prioritize speed and cost-effectiveness, favoring Express Air or Regular Air over the Delivery Truck. Regular Air or Express Air would be more suitable for medium orrders. While less urgent, Regular Air remains a better choice financially.
-
-**Recommendation**
-The company should reassess its shipping strategy to align costs with order priorities better. Specifically, for critical orders, using faster yet more economical options like Express Air or Regular Air would optimize both cost and delivery efficiency. Overall, a strategic review of shipping methods based on urgency and cost-effectiveness is necessary to ensure better financial management.
-
+## Conclusion
+Understanding our customer segments is key. By prioritizing personalized interactions and enhancing service quality, we can cultivate stronger loyalty, particularly among those customers who currently contribute less revenue. Our current reliance on the Delivery Truck for even critical orders is not the most cost-effective approach. A strategic pivot towards faster, more efficient shipping options will not only delight our customers with quicker deliveries but also lead to substantial operational savings.
 
