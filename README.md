@@ -3,10 +3,11 @@
 ## Outline
 - [Project Overview](#project-overview)
 - [Data source](#data-source)
-- [Features](#features)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
+- [Tools used](#tools-used)
+- [Data Analysis for Case Scenario I](#data-analysis-for-case-scenario-I)
+- [Data Analysis for Case Scenario II](#data-analysis-for-case-scenario-II)
+- [Result from the Analysis ](#result-from-the-analysis )
+- [Recommendation](#recommendation)
 
 
 ## Project Overview
@@ -257,4 +258,4 @@ The company did not appropriately allocate shipping costs based on order priorit
 **Recommendation**
 The company should reassess its shipping strategy to align costs with order priorities better. Specifically, for critical orders, using faster yet more economical options like Express Air or Regular Air would optimize both cost and delivery efficiency. Overall, a strategic review of shipping methods based on urgency and cost-effectiveness is necessary to ensure better financial management.
 
-## Features
+
