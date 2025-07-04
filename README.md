@@ -9,6 +9,7 @@ Welcome to the KMS Sales Data Analysis project. This repository explores our sal
 - [Business Questions from Case study](#business-questions-from-case-study)
 - [Result and Insights](#result-and-insights)
 - [Recommendation](#Recommendation)
+- [Conclusion](#conclusion)
 
 
 ## Project Overview
