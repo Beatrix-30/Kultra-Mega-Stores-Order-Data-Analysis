@@ -1,8 +1,8 @@
 # Kultra-Mega-Stores-Order-Data-Analysis
 
 ## Outline
-- [Project Overview](#Project Overview)
-- [Usage](#usage
+- [Project Overview](#project-overview)
+- [Data source](#data-source)
 - [Features](#features)
 - [Contributing](#contributing)
 - [License](#license)
@@ -257,4 +257,4 @@ The company did not appropriately allocate shipping costs based on order priorit
 **Recommendation**
 The company should reassess its shipping strategy to align costs with order priorities better. Specifically, for critical orders, using faster yet more economical options like Express Air or Regular Air would optimize both cost and delivery efficiency. Overall, a strategic review of shipping methods based on urgency and cost-effectiveness is necessary to ensure better financial management.
 
-Features
+## Features
