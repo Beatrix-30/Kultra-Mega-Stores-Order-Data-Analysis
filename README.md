@@ -7,7 +7,6 @@
 - [Data Analysis for Case Scenario I](#data-analysis-for-case-scenario-I)
 - [Data Analysis for Case Scenario II](#data-analysis-for-case-scenario-II)
 - [Result from the Analysis ](#result-from-the-analysis )
-- [Recommendation](#recommendation)
 
 
 ## Project Overview
@@ -22,6 +21,7 @@ The source of data used are below and can be downloaded through the link:
 - SQL Server Management Studio (SSMS): for querying and data analysis [Download Here](https://learn.microsoft.com/en-us/ssms/sql-server-management-studio-ssms) 
 
 ## Data Analysis for Case Scenario I
+
 ```
 create database Kultra_Mega_Stores
 ```
