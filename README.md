@@ -40,7 +40,7 @@ The source of data used are below and can be downloaded through the link:
    10. Which customer returned items, and what segment do they belong to?
    11. Was shipping costs based on the Order Priority?
 
-## Result and Insights
+##📈 Result and Insights
    1. **Sales Performance:** The Technology product category leads with total sales of $5,984,248.50. The West region achieved the highest sales at $3,597,549.41, while Nunavut has the lowest sales at $116,376.47. This indicates a strong market presence in certain regions and product categories, suggesting targeted marketing opportunities.
   
    2. **Customer Engagement Strategies:** To improve revenue from the bottom 10 customers, strategies such as targeted promotions, CRM implementation, and feedback collection are essential. Enhancing customer service and providing personalized product recommendations could also foster loyalty and increase sales.
